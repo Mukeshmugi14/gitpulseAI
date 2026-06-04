@@ -1,0 +1,6 @@
+{
+  "name": "GitPulse AI",
+  "description": "Engineering Intelligence Platform MVP showcasing productivity, repo health, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
